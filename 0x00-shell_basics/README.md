@@ -1,2 +1,2 @@
-#!/bin/bash
-absolute path name of the current working directory
+#!/bin/bash absolute path name of the current working directory
+Why?

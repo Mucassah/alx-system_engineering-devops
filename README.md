@@ -1,1 +1,2 @@
-Shell navigation repository
+#!/bin/bash Shell navigation repository
+why?
