@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH-"£PATH:/action"
+PATH-"$PATH:/action"
